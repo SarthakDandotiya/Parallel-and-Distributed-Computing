@@ -6,14 +6,14 @@ Programs written in C with OpenMP or MPI.
 **To run OpenMP programs**
 
 ```bash
-    foo@bar:~$ gcc <filename>.c -fopenmp
-    foo@bar:~$ ./a.out
+    $ gcc <filename>.c -fopenmp
+    $ ./a.out
 ```
 
 **To run MPI programs**
 ```bash
-    foo@bar:~$ mpicc -o <filename> <filename>.c
-    foo@bar:~$ mpirun <filename>
+    $ mpicc -o <filename> <filename>.c
+    $ mpirun <filename>
 ```
 
 <br>
