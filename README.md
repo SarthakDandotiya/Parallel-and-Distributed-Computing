@@ -1,4 +1,4 @@
-# Parallel & Distributed Computing Assignments
+# Parallel & Distributed Computing Programs
 Programs written in C with OpenMP or MPI.
 
 <br>
