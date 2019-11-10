@@ -18,6 +18,7 @@ Programs written in C with OpenMP or MPI.
 
 <br>
 <br>
+<hr>
 
 ### Questions:
 
